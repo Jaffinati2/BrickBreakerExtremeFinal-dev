@@ -5,7 +5,7 @@
 //  Created by Victor Castaneda on 4/12/18.
 //  Copyright © 2018 Victor Castaneda. All rights reserved.
 // ZIMKA
-//ZIMKA #2
+//ZIMKA #2 & #3
 
 import UIKit
 import SpriteKit
